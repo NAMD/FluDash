@@ -6,3 +6,4 @@ pandas
 django-bootstrap3
 bokeh
 psycopg2
+sqlalchemy>=0.9
